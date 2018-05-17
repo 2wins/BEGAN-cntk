@@ -1,0 +1,8 @@
+*.txt
+*~
+.vscode
+__pycache__/
+models/
+samples/
+results/
+log/
